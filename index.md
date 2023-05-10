@@ -1,6 +1,6 @@
 # Xiaoli Wang  (王晓莉)
 
-<img align="right" src="photos/xiaoli.jpg">
+<img align="right" height="160" src="photos/xiaoli.jpg">
 
 Grad Student, [Hunan Normal University](https://www.hunnu.edu.cn/)\
 36 Lushan Rd., Yuelu District,\
