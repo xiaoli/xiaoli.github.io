@@ -14,8 +14,12 @@ Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https
 Natural language processing\
 Computer vision
 
+## Publications
+- 2017/09《基于 Python 的 Google App Engine 编程》: The Chinese version of "Programming Google App Engine with Python" By Dan Sanderson.
+
 ## Education
-- 2022/09-Present: Hunan Normal University
+- 2022/09-Present: Hunan Normal University\
+  Tutor: [Prof. Xiao Lu](https://scholar.google.com/citations?hl=en&user=kT871PIAAAAJ)
 - 1999/09-2003/06: Hunan University
 
 ## Working Experience
