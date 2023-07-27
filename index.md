@@ -23,7 +23,7 @@ Computer vision
 - 1999/09-2003/06: Hunan University
 
 ## Working Experience
-- 2015/08-Present: Doumeng Ltd. Founder & Programmer
+- 2015/08-2022/09: Doumeng Ltd. Founder & Programmer
 - 2013/12-2017/05: Sinodyne Ltd. Contract software engineer
 - 2012/04-2013/03: ticktick.com, Web Architect
 - 2008/05-2010/03: Sinodyne Ltd. Software engineer
