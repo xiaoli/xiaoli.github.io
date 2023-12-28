@@ -21,12 +21,3 @@ Computer vision
 - 2022/09-Present: Hunan Normal University\
   Tutor: [Prof. Xiao Lu](https://scholar.google.com/citations?hl=en&user=kT871PIAAAAJ)
 - 1999/09-2003/06: Hunan University
-
-## Working Experience
-- 2015/08-2022/09: Doumeng Ltd. Founder & Programmer
-- 2013/12-2017/05: Sinodyne Ltd. Contract software engineer
-- 2012/04-2013/03: ticktick.com, Web Architect
-- 2008/05-2010/03: Sinodyne Ltd. Software engineer
-- 2005/09-2006/12: Sinohub, Inc. Software engineer
-- 2005/04-2005/09: 95160.com, Software engineer
-- 2004/01-2005/03: meetchina.com & chinacircle.com, Software engineer
