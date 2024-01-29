@@ -16,7 +16,7 @@ Information Systems\
 Fintech
 
 ## Publications
-- 2017/09《基于 Python 的 Google App Engine 编程》: The Chinese version of "Programming Google App Engine with Python" By Dan Sanderson.
+- 2017/09[《基于 Python 的 Google App Engine 编程》](https://book.douban.com/subject/30282716/): The Chinese version of "[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)" By Dan Sanderson.
 
 ## Education
 - 2022.09 - Present: [Hunan Normal University](https://www.hunnu.edu.cn/) GPA 3.9/4.0\
