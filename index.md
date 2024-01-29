@@ -29,7 +29,7 @@ Fintech
 
 #### [ReviewBot](https://md.studio), 2023.03 - 2023.06
 - Developer
-- An Automated Response System for Apple App Store User Reviews Based on OpenAI ChatGPT for MD Studio.
+- An Automated Response System for Apple App Store User Reviews Based on OpenAI ChatGPT for [MD Studio](https://md.studio).
 
 #### [Bosch (Changsha) Logistics Control Tower](https://www.bosch.com.cn/en/our-company/bosch-in-china/bosch-automotive-products-changsha/), 2021.06 - 2021.12
 - Developer
@@ -55,7 +55,7 @@ Fintech
 - Project Manager & Developer
 - Game Network Accelerator for Online Games, Optimized for Games like PUBG, Rainbow Six Siege, and GTA5.
 
-#### WEMOVE, 2015.11 - 2017.12
+#### [WEMOVE](https://www.wemovetech.com/en), 2015.11 - 2017.12
 - CTO
 - Development of Intelligent Tent Control Software and IoT Hardware.
 - [Hangzhou Lvjia Technology Co., Ltd](https://www.wemovetech.com/en), Selected Participant in the '5050' Plan for Attracting High-Level Overseas Educated Talents for Innovation and Entrepreneurship in Hangzhou High-Tech Development Zone.
@@ -79,11 +79,11 @@ Fintech
 
 #### Linux Embedding System, 2008 - 2010
 - C++ Developer
-- [Sinodyne Ltd.](https://sinodyne.net/)
+- [Sinodyne Ltd.](https://sinodyne.net/), Shenzhen.
 
 #### CRM System, 2005 - 2006
 - Project Manager & Developer
-- SinoHub, Inc. (SIHI)
+- SinoHub, Inc. (SIHI), Shenzhen.
 
 #### ChineCircle.com, 2004 - 2005
 - Java Developer
@@ -91,4 +91,4 @@ Fintech
 
 #### Telecom Billing System, 2003 - 2004
 - Developer
-- China Telecom(NYSE:CHA), Hunan Province
+- China Telecom(NYSE:CHA), Hunan Province.
