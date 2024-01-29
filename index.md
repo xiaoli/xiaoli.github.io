@@ -90,4 +90,4 @@ Fintech
 
 #### Telecom Billing System, 2003 - 2004
 - Developer
-- China Telecom(NYSE:CHA), Hunan Province.
+- China Telecom Corp. Ltd. (NYSE:CHA), Hunan Province.
