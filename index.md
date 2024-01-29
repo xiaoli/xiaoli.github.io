@@ -8,7 +8,7 @@ Changsha, Hunan, P.R. China\
 Email: xiaoli AT hunnu.edu.cn
 
 ## Biography
-Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https://www.hunnu.edu.cn/), China. He received the B.S. degree in software engineering from [Hunan University](https://www.hnu.edu.cn/), China, in 2003. His research interests include natural language processing, information systems, and fintech.
+Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https://www.hunnu.edu.cn/), China. He received the B.S. degree in software engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2003. His research interests include natural language processing, information systems, and fintech.
 
 ## Research interests
 Natural language processing\
@@ -19,11 +19,14 @@ Fintech
 - 2017/09《基于 Python 的 Google App Engine 编程》: The Chinese version of "Programming Google App Engine with Python" By Dan Sanderson.
 
 ## Education
-- 2022/09-Present: Hunan Normal University GPA 3.9/4.0\
+- 2022.09 - Present: [Hunan Normal University](https://www.hunnu.edu.cn/) GPA 3.9/4.0\
   Tutor: [Prof. Xiao Lu](https://scholar.google.com/citations?hl=en&user=kT871PIAAAAJ)
-- 1999/09-2003/06: Hunan University
+- 1999.09 - 2003.06: [Hunan University](http://www-en.hnu.edu.cn/)
 
 ## Projects
+#### Graduate Thesis External Review Expert Opinion Mining System, 2023.06 - Present
+- Grad Student at [Hunan Normal University](https://www.hunnu.edu.cn/)
+
 #### [ReviewBot](https://md.studio), 2023.03 - 2023.06
 - Developer
 - An Automated Response System for Apple App Store User Reviews Based on OpenAI ChatGPT for MD Studio.
