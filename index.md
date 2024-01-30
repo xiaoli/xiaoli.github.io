@@ -24,6 +24,7 @@ Fintech
 
 ## Awards
 #### First Prize in the 4th Hunan Province Graduate Artificial Intelligence Innovation Competition, 2023.11
+#### Hunan University 1999-2000 Academic Year Outstanding Student Leader, 2000.11
 
 ## Projects
 #### Graduate Thesis External Review Expert Opinion Mining System, 2023.06 - Present
