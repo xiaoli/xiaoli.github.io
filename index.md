@@ -22,6 +22,9 @@ Fintech
 #### - M.Sc., Electronic Information Technology, [Hunan Normal University](https://www.hunnu.edu.cn/), GPA 3.9/4.0, 2022 - Present
 #### - B.Sc., Software Engineering, [Hunan University](http://www-en.hnu.edu.cn/), 1999 - 2003
 
+## Awards
+#### First Prize in the 4th Hunan Province Graduate Artificial Intelligence Innovation Competition, 2023.11
+
 ## Projects
 #### Graduate Thesis External Review Expert Opinion Mining System, 2023.06 - Present
 - Grad Student at [Hunan Normal University](https://www.hunnu.edu.cn/)
@@ -62,7 +65,7 @@ Fintech
 #### [BallQ](https://www.tianyancha.com/brand/b7ba0134081), 2014.05 - 2015.12
 - CTO
 - Live updates on football match scores, interactive score predictions, final score settlements, and the latest breaking news from the match.
-- Beijing Qiushang Technology Co., Ltd, Completed Pre-A Funding Round in 2015 with a Transaction Amount of 14 Million RMB.
+- Beijing Qiushang Technology Co., Ltd, Completed Secured angel round and Pre-A round funding of 2 million RMB and 14 million RMB, respectively.
 
 #### [TickTick](https://www.ticktick.com/?language=en_us), 2012.03 - 2013.05
 - CTO
