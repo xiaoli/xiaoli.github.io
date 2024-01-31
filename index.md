@@ -2,13 +2,13 @@
 
 <img align="right" height="160" src="photos/xiaoli.jpg">
 
-Grad Student, [Hunan Normal University](https://www.hunnu.edu.cn/)\
+Grad Student, [Hunan Normal University](https://english.hunnu.edu.cn/)\
 36 Lushan Rd., Yuelu District,\
 Changsha, Hunan, P.R. China\
 Email: xiaoli AT hunnu.edu.cn
 
 ## Biography
-Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https://www.hunnu.edu.cn/), China. He received the B.S. degree in software engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2003. His research interests include natural language processing, information systems, and fintech.
+Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https://english.hunnu.edu.cn/), China. He received the B.S. degree in software engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2003. His research interests include natural language processing, information systems, and fintech.
 
 ## Research interests
 Natural language processing\
@@ -19,7 +19,7 @@ Fintech
 - 2017.09[《基于 Python 的 Google App Engine 编程》](https://book.douban.com/subject/30282716/): The Chinese version of "[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)" By Dan Sanderson.
 
 ## Education
-#### - M.Sc., Electronic Information Technology, [Hunan Normal University](https://www.hunnu.edu.cn/), GPA 3.9/4.0, 2022 - Present
+#### - M.Sc., Electronic Information Technology, [Hunan Normal University](https://english.hunnu.edu.cn/), GPA 3.9/4.0, 2022 - Present
 #### - B.Sc., Software Engineering, [Hunan University](http://www-en.hnu.edu.cn/), 1999 - 2003
 
 ## Awards
@@ -28,7 +28,7 @@ Fintech
 
 ## Projects
 #### Graduate Thesis External Review Expert Opinion Mining System, 2023.06 - Present
-- Grad Student at [Hunan Normal University](https://www.hunnu.edu.cn/)
+- Grad Student at [Hunan Normal University](https://english.hunnu.edu.cn/)
 
 #### [ReviewBot](https://md.studio), 2023.03 - 2023.06
 - Developer
