@@ -16,15 +16,20 @@ Information Systems\
 Fintech
 
 ## Publications
-- 2017.09[《基于 Python 的 Google App Engine 编程》](https://book.douban.com/subject/30282716/): The Chinese version of "[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)" By Dan Sanderson.
+2017.09[《基于 Python 的 Google App Engine 编程》](https://book.douban.com/subject/30282716/): The Chinese version of "[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)" By Dan Sanderson.
 
 ## Education
-#### - M.Sc., Electronic Information Technology, [Hunan Normal University](https://english.hunnu.edu.cn/), GPA 3.9/4.0, 2022 - Present
-#### - B.Sc., Software Engineering, [Hunan University](http://www-en.hnu.edu.cn/), 1999 - 2003
+#### M.Sc., Electronic Information Technology, [Hunan Normal University](https://english.hunnu.edu.cn/), GPA 3.9/4.0, 2022 - Present
+#### B.Sc., Software Engineering, [Hunan University](http://www-en.hnu.edu.cn/), 1999 - 2003
 
 ## Awards
 #### First Prize in the 4th Hunan Province Graduate Artificial Intelligence Innovation Competition, 2023.11
 #### Hunan University 1999-2000 Academic Year Outstanding Student Leader, 2000.11
+
+## Language Proficiency
+Mandarin: Mother Language
+English: Listening – Yes, Speaking – Yes.
+Cantonese: Listening – Yes, Speaking – No.
 
 ## Projects
 #### Graduate Thesis External Review Expert Opinion Mining System, 2023.06 - Present
