@@ -31,7 +31,7 @@ Mandarin: Mother Language\
 English: Listening – Yes, Speaking – Yes.\
 Cantonese: Listening – Yes, Speaking – No.
 
-## Projects
+## Selected Projects
 #### Graduate Thesis External Review Expert Opinion Mining System, 2023.06 - Present
 - Grad Student at [Hunan Normal University](https://english.hunnu.edu.cn/)
 
