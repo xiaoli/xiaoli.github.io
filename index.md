@@ -27,8 +27,8 @@ Fintech
 #### Hunan University 1999-2000 Academic Year Outstanding Student Leader, 2000.11
 
 ## Language Proficiency
-Mandarin: Mother Language
-English: Listening – Yes, Speaking – Yes.
+Mandarin: Mother Language\
+English: Listening – Yes, Speaking – Yes.\
 Cantonese: Listening – Yes, Speaking – No.
 
 ## Projects
