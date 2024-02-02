@@ -90,7 +90,7 @@ Fintech
 
 #### ChineCircle.com, 2004 - 2005
 - Java Developer
-- A Web 2.0 Social Networking Service (SNS) for Online Friendship and Networking.
+- A Web 2.0 Social Networking Service (SNS) for Online Friendship and Networking, Shenzhen.
 
 #### Telecom Billing System, 2003 - 2004
 - Developer
