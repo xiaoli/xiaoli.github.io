@@ -34,6 +34,7 @@ Cantonese: Listening – Yes, Speaking – No.
 ## Selected Projects
 #### Graduate Thesis External Review Expert Opinion Mining System, 2023.06 - Present
 - Grad Student at [Hunan Normal University](https://english.hunnu.edu.cn/)
+- Keywords: NLP, ACOSQE (Aspect-Category-Opinion-Sentiment Quadruple Extraction), Transformers, Pretrained Large Language Model
 
 #### [ReviewBot](https://md.studio), 2023.03 - 2023.06
 - Developer
