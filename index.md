@@ -20,7 +20,7 @@ Fintech
 
 ## Education
 #### 2022.09 - Present M.Sc., Electronic Information Technology, [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University) GPA 3.9/4.0
-- The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction).\
+- The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction).
 - Supervisor: [Xiao Lu](https://scholar.google.com/citations?hl=en&user=kT871PIAAAAJ)
 
 #### 1999.09 - 2003.06 B.Sc., Software Engineering, [Hunan University](https://en.wikipedia.org/wiki/Hunan_University)
