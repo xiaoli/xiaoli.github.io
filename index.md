@@ -19,10 +19,13 @@ Fintech
 2017.09[《基于 Python 的 Google App Engine 编程》](https://book.douban.com/subject/30282716/): The Chinese version of "[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)" By Dan Sanderson.
 
 ## Education
-#### 2022.09 - Present M.Sc., Electronic Information Technology, [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University) (The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction))
+#### 2022.09 - Present M.Sc., Electronic Information Technology, [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University)
+The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction)\
+Supervisor: [Xiao Lu](https://scholar.google.com/citations?hl=en&user=kT871PIAAAAJ)\
 GPA 3.9/4.0
-Supervisor: [Xiao Lu](https://scholar.google.com/citations?hl=en&user=kT871PIAAAAJ)
-#### 1999.09 - 2003.06 B.Sc., Software Engineering, [Hunan University](https://en.wikipedia.org/wiki/Hunan_University) (The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), [Project 985](https://en.wikipedia.org/wiki/Project_985) and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction))
+
+#### 1999.09 - 2003.06 B.Sc., Software Engineering, [Hunan University](https://en.wikipedia.org/wiki/Hunan_University)
+The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), [Project 985](https://en.wikipedia.org/wiki/Project_985) and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction)
 
 ## Awards
 #### 2023.11 First Prize in the 4th Hunan Province Graduate Artificial Intelligence Innovation Competition 
