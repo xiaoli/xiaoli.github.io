@@ -1,4 +1,4 @@
-# Xiaoli Wang  (王晓莉)
+# Xiaoli Wang
 
 <img align="right" height="160" src="photos/xiaoli.jpg">
 
