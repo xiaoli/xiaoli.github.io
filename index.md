@@ -108,5 +108,3 @@ Cantonese: Listening – Yes, Speaking – No.
 #### 2003 - 2004 Telecom Billing System
 - Developer
 - China Telecom Corp. Ltd. (NYSE:CHA), Hunan Province.
-
-![](https://komarev.com/ghpvc/?username=xiaoli&color=green)
