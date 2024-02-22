@@ -47,10 +47,6 @@ Cantonese: Listening – Yes, Speaking – No.
 - Developer
 - An Automated Response System for Apple App Store User Reviews Based on OpenAI ChatGPT for [MD Studio](https://md.studio).
 
-#### 2021.06 - 2021.12 [Bosch (Changsha) Logistics Control Tower](https://www.bosch.com.cn/en/our-company/bosch-in-china/bosch-automotive-products-changsha/)
-- Developer
-- Bosch (Changsha) Logistics Data Dashboard System.
-
 #### 2023.06 [huggingface/transformers](https://github.com/huggingface/transformers/pull/24340)
 - Open Source Contributor
 - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -59,13 +55,13 @@ Cantonese: Listening – Yes, Speaking – No.
 - Project Manager & Developer
 - Automated Weighing and Billing System for Garbage Transportation Vehicles for [Hunan Vary Technology Co., Ltd](http://en.vary.net.cn/).
 
+#### 2021.06 - 2021.12 [Bosch (Changsha) Logistics Control Tower](https://www.bosch.com.cn/en/our-company/bosch-in-china/bosch-automotive-products-changsha/)
+- Developer
+- Bosch (Changsha) Logistics Data Dashboard System.
+
 #### 2021.06 - 2021.10 [Quantitative Strategy Evaluation System](https://github.com/xiaoli/Light)
 - Open Source Developer
 - Quantitative Strategy Evaluation System Designed for China's Stock Indexes and A-Shares
-
-#### 2021.05 - 2021.11 Tongjia Village Intelligent Governance System
-- Project Manager & Developer
-- Intelligent Governance System for Tongjia Village in Zhejiang Province, Designed for Convenient Information Access.
 
 #### 2018 [Mengyou Online Game Network Acceleration Software](https://www.mengyou360.com/)
 - Project Manager & Developer
