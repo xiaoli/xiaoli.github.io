@@ -8,7 +8,7 @@ Changsha, Hunan, P.R. China\
 Email: xiaoli AT hunnu.edu.cn
 
 ## Biography
-Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University), China. He received the B.S. degree in software engineering from [Hunan University](https://en.wikipedia.org/wiki/Hunan_University), China, in 2003. His research interests include natural language processing, information systems, and fintech.
+Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University), China. He received the B.S. degree in software engineering from [Hunan University](https://en.wikipedia.org/wiki/Hunan_University), China, in 2003. His research interests include natural language processing, fintech, and information systems.
 
 ## Programming Experience
 With over 20 years of hands-on programming experience, I have developed a profound expertise in crafting solutions across various domains. My programming proficiency extends to languages such as Python, Java, and C++, where I have demonstrated the ability to design and implement robust, scalable, and efficient software solutions.
@@ -18,8 +18,8 @@ I am well-versed in database management, particularly with MySQL. My experience 
 
 ## Research interests
 Natural language processing\
-Information Systems\
-Fintech
+Fintech\
+Information Systems
 
 ## Publications
 2017.09[《基于 Python 的 Google App Engine 编程》](https://book.douban.com/subject/30282716/): The Chinese version of "[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)" By Dan Sanderson.
