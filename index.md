@@ -28,7 +28,6 @@ Information Systems
 #### [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University) 
 - The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction).
 - M.Sc., Electronic Information Technology, 2022.09 - Present
-- Advisor: [Prof. Xiao Lu](https://scholar.google.com/citations?hl=en&user=kT871PIAAAAJ)
 - GPA: 3.95/4.0; Ranking: Top 5%
 
 #### [Hunan University](https://en.wikipedia.org/wiki/Hunan_University)
