@@ -74,7 +74,7 @@
 
 #### 2016.01 - 2017.12 [WEMOVE](https://www.wemovetech.com/en)
 - 首席技术官（CTO）
-- 为[杭州旅家科技有限公司](https://www.tianyancha.com/brand/bc112262510)开发了智能帐篷控制软件和物联网硬件。参与杭州高新技术开发区的“5050”计划，吸引高层次海外留学人才进行创新创业。
+- 为[杭州旅家科技有限公司](https://www.tianyancha.com/brand/bc112262510)开发了智能帐篷控制软件和物联网硬件。参与杭州高新技术开发区的“5050”计划 - 吸引高层次海外留学人才进行创新创业。
 
 #### 2014.05 - 2015.12 [BallQ](https://www.tianyancha.com/brand/b7ba0134081)
 - 首席技术官（CTO）
