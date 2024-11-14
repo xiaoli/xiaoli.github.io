@@ -107,4 +107,4 @@ Cantonese: Listening – Yes, Speaking – No.
 
 #### 2003 - 2004 Telecom Billing System
 - Developer
-- Worked on a telecom billing system at a telecommunications company in Shenzhen.
+- Worked on a telecom billing system at a telecommunications company in Hunan Province.
