@@ -1,4 +1,4 @@
-# Xiaoli Wang
+# Xiaoli Wang [中文](./index_cn.md)
 
 <img align="right" height="160" src="photos/xiaoli.jpg">
 
