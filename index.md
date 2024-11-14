@@ -46,9 +46,8 @@ English: Listening – Yes, Speaking – Yes. Passed [CET4](https://en.wikipedia
 Cantonese: Listening – Yes, Speaking – No.
 
 ## Selected Projects
-#### 2023.06 - Present Graduate Thesis External Review Expert Opinion Mining System
-- Grad Student at [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University)
-- Keywords: NLP, ACOSQE (Aspect-Category-Opinion-Sentiment Quadruple Extraction), Transformers, Pretrained Large Language Model
+#### 2023.06 - 2025.06 Thesis Evaluation Insight Mining Platform (TEIMP)
+- Xiaoli Wang’s graduate thesis introduces the Thesis Evaluation Insight Mining Platform (TEIMP), a cutting-edge system designed to extract and analyze expert review comments on graduate theses. The platform utilizes advanced natural language processing (NLP) and machine learning techniques to mine and synthesize valuable insights from evaluators' feedback. By uncovering patterns and trends in review comments, TEIMP aims to improve the efficiency and quality of the thesis evaluation process, providing academic institutions with data-driven insights to enhance review consistency and support decision-making in thesis assessments.
 
 #### 2023.03 - 2023.06 [ReviewBot](https://md.studio)
 - Developer
@@ -56,58 +55,56 @@ Cantonese: Listening – Yes, Speaking – No.
 
 #### 2023.06 [huggingface/transformers](https://github.com/huggingface/transformers/pull/24340)
 - Open Source Contributor
-- Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- Contributed to Transformers, a state-of-the-art machine learning library for PyTorch, TensorFlow, and JAX.
 
 #### 2022.05 - 2022.12 Intelligent Vehicle Weighing and Accounting System
 - Project Manager & Developer
-- Automated Weighing and Billing System for Garbage Transportation Vehicles for [Hunan Vary Technology Co., Ltd](http://en.vary.net.cn/).
+- Developed an automated weighing and billing system for garbage transportation vehicles for [Hunan Vary Technology Co., Ltd](http://en.vary.net.cn/).
 
 #### 2021.06 - 2021.12 [Bosch (Changsha) Logistics Control Tower](https://www.bosch.com.cn/en/our-company/bosch-in-china/bosch-automotive-products-changsha/)
 - Developer
-- Bosch (Changsha) Logistics Data Dashboard System.
+- Developed the Bosch (Changsha) logistics data dashboard system.
 
 #### 2021.06 - 2021.10 [Quantitative Strategy Evaluation System](https://github.com/xiaoli/Light)
 - Open Source Developer
-- Quantitative Strategy Evaluation System Designed for China's Stock Indexes and A-Shares
+- Developed a quantitative strategy evaluation system for China’s stock indexes and A-shares.
 
 #### 2018 [Mengyou Online Game Network Acceleration Software](https://www.mengyou360.com/)
 - Project Manager & Developer
-- Game Network Accelerator for Online Games, Optimized for Games like PUBG, Rainbow Six Siege, and GTA5.
+- Developed a network accelerator for online games, optimized for games like PUBG, Rainbow Six Siege, and GTA5.
 
 #### 2016.01 - 2017.12 [WEMOVE](https://www.wemovetech.com/en)
 - CTO
-- Development of Intelligent Tent Control Software and IoT Hardware.
-- [Hangzhou Lvjia Technology Co., Ltd](https://www.wemovetech.com/en), Selected Participant in the '5050' Plan for Attracting High-Level Overseas Educated Talents for Innovation and Entrepreneurship in Hangzhou High-Tech Development Zone.
+- Developed intelligent tent control software and IoT hardware for [Hangzhou Lvjia Technology Co., Ltd](https://www.wemovetech.com/en). Participated in the '5050' plan for attracting high-level overseas educated talents for innovation and entrepreneurship in Hangzhou High-Tech Development Zone.
 
 #### 2014.05 - 2015.12 [BallQ](https://www.tianyancha.com/brand/b7ba0134081)
 - CTO
-- Live updates on football match scores, interactive score predictions, final score settlements, and the latest breaking news from the match.
-- Beijing Qiushang Technology Co., Ltd, Completed Secured angel round and Pre-A round funding of 2 million RMB and 14 million RMB, respectively.
+- Developed a live score update platform for football matches, including interactive score predictions and breaking news. Secured angel and pre-A round funding of 2 million RMB and 14 million RMB, respectively, for Beijing Qiushang Technology Co., Ltd.
 
 #### 2012.03 - 2013.05 [TickTick](https://www.ticktick.com/?language=en_us)
 - CTO
-- TickTick is Your Daily Essential for Managing To-Do Lists and Tasks to Accomplish Everything Efficiently.
+- Developed TickTick, a task management app to help users organize daily to-do lists and accomplish tasks efficiently.
 
 #### 2011 P2P Lending System
 - Software Developer
-- A Peer-to-Peer Loan Platform for a Financial Company in Shenzhen.
+- Developed a peer-to-peer loan platform for a financial company in Shenzhen.
 
 #### 2010 Ouya.com.cn
 - Project Manager & Developer
-- Ouya Second-hand Cars Website, Known as the Largest Used Car Dealership Website in Shenzhen at its Time.
+- Developed Ouya, a second-hand car website, which became the largest used car dealership platform in Shenzhen at the time.
 
 #### 2008 - 2010 Linux Embedding System
 - C++ Developer
-- [Sinodyne Ltd.](https://sinodyne.net/), Shenzhen.
+- Worked on embedded Linux systems at [Sinodyne Ltd.](https://sinodyne.net/), Shenzhen.
 
 #### 2005 - 2006 CRM System
 - Project Manager & Developer
-- SinoHub, Inc. (SIHI), Shenzhen.
+- Developed a customer relationship management system for SinoHub, Inc. (SIHI), Shenzhen.
 
 #### 2004 - 2005 ChineCircle.com
 - Java Developer
-- A Web 2.0 Social Networking Service (SNS) for Online Friendship and Networking, Shenzhen.
+- Developed a Web 2.0 social networking service for online friendships and networking at SinoHub, Shenzhen.
 
 #### 2003 - 2004 Telecom Billing System
 - Developer
-- China Telecom Corp. Ltd. (NYSE:CHA), Hunan Province.
+- Worked on a telecom billing system at a telecommunications company in Shenzhen.
