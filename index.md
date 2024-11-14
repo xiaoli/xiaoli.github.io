@@ -36,7 +36,7 @@ Xiaoli Wang is proficient in database management, particularly with MySQL and Po
 
 ## Awards
 #### 2024.11 Advanced to the finals in the 5th Hunan Graduate AI Innovation Competition (competition upcoming) [Link Team#10](https://mp.weixin.qq.com/s/SFO4y76OL08A6wjDQsosJw)
-#### 2024.09 Awarded Third Prize in the National Finals of the "Huawei Cup" 6th China Graduate AI Innovation Competition [Link Team#276](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90801a91ff34d00191ffd5f79604e7)
+#### 2024.09 Awarded Third Prize in the National Finals of the 6th China Graduate AI Innovation Competition [Link Team#276](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90801a91ff34d00191ffd5f79604e7)
 #### 2023.11 First Prize in the 4th Hunan Province Graduate Artificial Intelligence Innovation Competition [Link Team#7](http://www.hnaai.cn/sdetail.html?id=294)
 #### 2000.11 Outstanding Student Leader, Hunan University, 1999-2000 Academic Year
 
