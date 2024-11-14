@@ -2,7 +2,7 @@
 
 <img align="right" height="160" src="photos/xiaoli.jpg">
 
-创业者 & 研究生， [湖南师范大学](https://www.hunnu.edu.cn/)\
+硕士研究生， [湖南师范大学](https://www.hunnu.edu.cn/)\
 湖南省长沙市岳麓区潇湘路36号\
 电子邮件：xiaoli AT hunnu.edu.cn
 
