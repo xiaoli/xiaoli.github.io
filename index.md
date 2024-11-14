@@ -17,8 +17,8 @@ With over 20 years of hands-on programming experience, Xiaoli Wang has developed
 Xiaoli Wang is proficient in database management, particularly with MySQL and PostgreSQL. His experience spans designing and optimizing database structures, ensuring data integrity, and implementing efficient querying mechanisms, which enhances his capacity to build comprehensive, integrated software.
 
 ## Research interests
-- Natural language processing\
-- Fintech\
+- Natural language processing
+- Fintech
 - Information Systems
 
 ## Publications
