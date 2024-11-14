@@ -2,7 +2,7 @@
 
 <img align="right" height="160" src="photos/xiaoli.jpg">
 
-Grad Student, [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University)\
+Entrepreneur & Grad Student,  [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University)\
 36 Lushan Rd., Yuelu District,\
 Changsha, Hunan, P.R. China\
 Email: xiaoli AT hunnu.edu.cn
@@ -14,7 +14,7 @@ Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https
 With over 20 years of hands-on programming experience, I have developed a profound expertise in crafting solutions across various domains. My programming proficiency extends to languages such as Python, Java, and C++, where I have demonstrated the ability to design and implement robust, scalable, and efficient software solutions.
 
 ## Database Expertise
-I am well-versed in database management, particularly with MySQL. My experience includes designing and optimizing database structures, ensuring data integrity, and implementing efficient querying mechanisms. This expertise enhances my ability to develop comprehensive and well-integrated software solutions.
+I am well-versed in database management, particularly with MySQL/PostgreSQL, etc. My experience includes designing and optimizing database structures, ensuring data integrity, and implementing efficient querying mechanisms. This expertise enhances my ability to develop comprehensive and well-integrated software solutions.
 
 ## Research interests
 Natural language processing\
@@ -28,13 +28,15 @@ Information Systems
 #### [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University) 
 - The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction).
 - M.Sc., Electronic Information Technology, 2022.09 - Present
-- GPA: 3.95/4.0; Ranking: Top 1%
+- GPA: 4.0/4.0; Ranking: Top 1%
 
 #### [Hunan University](https://en.wikipedia.org/wiki/Hunan_University)
 - The university is part of [Project 211](https://en.wikipedia.org/wiki/Project_211), [Project 985](https://en.wikipedia.org/wiki/Project_985) and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction).
 - B.Sc., Software Engineering, 1999.09 - 2003.06
 
 ## Awards
+#### 2024.11 Advanced to the finals in the 5th Hunan Graduate AI Innovation Competition (competition upcoming) [link](https://mp.weixin.qq.com/s/SFO4y76OL08A6wjDQsosJw)[Team#10]
+#### 2024.09 Awarded Third Prize in the National Finals of the "Huawei Cup" 6th China Graduate AI Innovation Competition [link](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90801a91ff34d00191ffd5f79604e7)[Team#276]
 #### 2023.11 First Prize in the 4th Hunan Province Graduate Artificial Intelligence Innovation Competition 
 #### 2000.11 Hunan University 1999-2000 Academic Year Outstanding Student Leader
 
