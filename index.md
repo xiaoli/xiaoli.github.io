@@ -2,24 +2,24 @@
 
 <img align="right" height="160" src="photos/xiaoli.jpg">
 
-Entrepreneur & Grad Student,  [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University)\
+Entrepreneur & Graduate Student,  [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University)\
 36 Lushan Rd., Yuelu District,\
 Changsha, Hunan, P.R. China\
 Email: xiaoli AT hunnu.edu.cn
 
 ## Biography
-Xiaoli Wang is studying for a master's degree at [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University), China. He received the B.S. degree in software engineering from [Hunan University](https://en.wikipedia.org/wiki/Hunan_University), China, in 2003. His research interests include natural language processing, fintech, and information systems.
+Xiaoli Wang is currently pursuing a master’s degree at [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University), China. He received a B.S. degree in Software Engineering from [Hunan University](https://en.wikipedia.org/wiki/Hunan_University), China, in 2003. His research interests encompass natural language processing, fintech, and information systems.
 
 ## Programming Experience
-With over 20 years of hands-on programming experience, I have developed a profound expertise in crafting solutions across various domains. My programming proficiency extends to languages such as Python, Java, and C++, where I have demonstrated the ability to design and implement robust, scalable, and efficient software solutions.
+With over 20 years of hands-on programming experience, Xiaoli Wang has developed expertise in creating solutions across various domains. His programming skills include Python, Java, and C++, showcasing his ability to design and implement robust, scalable, and efficient software.
 
 ## Database Expertise
-I am well-versed in database management, particularly with MySQL/PostgreSQL, etc. My experience includes designing and optimizing database structures, ensuring data integrity, and implementing efficient querying mechanisms. This expertise enhances my ability to develop comprehensive and well-integrated software solutions.
+Xiaoli Wang is proficient in database management, particularly with MySQL and PostgreSQL. His experience spans designing and optimizing database structures, ensuring data integrity, and implementing efficient querying mechanisms, which enhances his capacity to build comprehensive, integrated software.
 
 ## Research interests
-Natural language processing\
-Fintech\
-Information Systems
+- Natural language processing\
+- Fintech\
+- Information Systems
 
 ## Publications
 2017.09[《基于 Python 的 Google App Engine 编程》](https://book.douban.com/subject/30282716/): The Chinese version of "[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)" By Dan Sanderson.
@@ -38,7 +38,7 @@ Information Systems
 #### 2024.11 Advanced to the finals in the 5th Hunan Graduate AI Innovation Competition (competition upcoming) [Link Team#10](https://mp.weixin.qq.com/s/SFO4y76OL08A6wjDQsosJw)
 #### 2024.09 Awarded Third Prize in the National Finals of the "Huawei Cup" 6th China Graduate AI Innovation Competition [Link Team#276](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90801a91ff34d00191ffd5f79604e7)
 #### 2023.11 First Prize in the 4th Hunan Province Graduate Artificial Intelligence Innovation Competition [Link Team#7](http://www.hnaai.cn/sdetail.html?id=294)
-#### 2000.11 Hunan University 1999-2000 Academic Year Outstanding Student Leader
+#### 2000.11 Outstanding Student Leader, Hunan University, 1999-2000 Academic Year
 
 ## Language Proficiency
 Mandarin: Mother Language\
