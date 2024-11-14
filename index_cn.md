@@ -34,9 +34,9 @@
 - 本科，软件工程，1999年9月 - 2003年6月
 
 ## 奖项
-#### 2024.11 进入第5届湖南省研究生人工智能创新大赛决赛（比赛待举行） [Link Team#10](https://mp.weixin.qq.com/s/SFO4y76OL08A6wjDQsosJw)
-#### 2024.09 获得第6届中国研究生人工智能创新大赛全国总决赛三等奖 [Link Team#276](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90801a91ff34d00191ffd5f79604e7)
-#### 2023.11 获得第4届湖南省研究生人工智能创新大赛一等奖 [Link Team#7](http://www.hnaai.cn/sdetail.html?id=294)
+#### 2024.11 进入第5届湖南省研究生人工智能创新大赛决赛（比赛待举行） [团队#10](https://mp.weixin.qq.com/s/SFO4y76OL08A6wjDQsosJw)
+#### 2024.09 获得第6届中国研究生人工智能创新大赛全国总决赛三等奖 [团队#276](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90801a91ff34d00191ffd5f79604e7)
+#### 2023.11 获得第4届湖南省研究生人工智能创新大赛一等奖 [团队#7](http://www.hnaai.cn/sdetail.html?id=294)
 #### 2000.11 湖南大学优秀学生干部，1999-2000学年
 
 ## 语言能力
