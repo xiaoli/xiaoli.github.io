@@ -8,7 +8,7 @@ Changsha, Hunan, P.R. China\
 Email: xiaoli AT hunnu.edu.cn
 
 ## Biography
-Xiaoli Wang is currently pursuing a master’s degree at [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University), China. He received a B.S. degree in Software Engineering from [Hunan University](https://en.wikipedia.org/wiki/Hunan_University), China, in 2003. His research interests encompass natural language processing, fintech, and information systems.
+Xiaoli Wang is currently pursuing a master’s degree at [Hunan Normal University](https://en.wikipedia.org/wiki/Hunan_Normal_University), China. He received a B.S. degree in Software Engineering from [Hunan University](https://en.wikipedia.org/wiki/Hunan_University), China, in 2003. His research interests encompass natural language processing, medical imaging, and information systems.
 
 ## Programming Experience
 With over 20 years of hands-on programming experience, Xiaoli Wang has developed expertise in creating solutions across various domains. His programming skills include Python, Java, and C++, showcasing his ability to design and implement robust, scalable, and efficient software.
@@ -18,7 +18,7 @@ Xiaoli Wang is proficient in database management, particularly with MySQL and Po
 
 ## Research interests
 - Natural language processing
-- Fintech
+- Medical imaging
 - Information Systems
 
 ## Publications
