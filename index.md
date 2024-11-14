@@ -103,7 +103,7 @@ Cantonese: Listening – Yes, Speaking – No.
 
 #### 2004 - 2005 ChineCircle.com
 - Java Developer
-- Developed a Web 2.0 social networking service for online friendships and networking at SinoHub, Shenzhen.
+- Developed a Web 2.0 social networking service for online friendships and networking at MeetChina.com, Shenzhen.
 
 #### 2003 - 2004 Telecom Billing System
 - Developer
