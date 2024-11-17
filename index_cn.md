@@ -4,7 +4,7 @@
 
 硕士研究生， [湖南师范大学](https://www.hunnu.edu.cn/)\
 湖南省长沙市岳麓区潇湘路36号\
-电子邮件：xiaoli AT hunnu.edu.cn
+电子邮件：xiaoli [AT] hunnu.edu.cn
 
 ## 个人简介
 王晓莉目前正在[湖南师范大学](https://www.hunnu.edu.cn/)攻读硕士学位。他于2003年获得[湖南大学](https://www.hnu.edu.cn/)软件工程学士学位。他的研究兴趣包括自然语言处理、医学影像和信息系统。
