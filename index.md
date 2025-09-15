@@ -14,8 +14,7 @@ Email: xiaoli.wang [AT] csu.edu.cn
 
 ## Education  
 - **Ph.D. Candidate in Pharmacy**, Central South University (Sep 2025 – Present)
-  *Double First-Class, Project 985 and 211 university in China*
-- **M.Sc. in Electronic Information Technology**, Hunan Normal University (Sep 2022 – Jun 2025)
+- **M.Sc. in Electronic Information Technology**, Hunan Normal University (Sep 2022 – Jun 2025)\
   GPA: 3.95/4.0, Top 1%
 - **B.Sc. in Software Engineering**, Hunan University (Sep 1999 – Jun 2003)
 
@@ -28,25 +27,25 @@ Email: xiaoli.wang [AT] csu.edu.cn
 - Nov 2023 - First Prize, 4th Hunan Province Graduate AI Innovation Competition
 
 ## Selected Research Projects
-- **Thesis Evaluation Insight Mining Platform (TEIMP)** (Jun 2023 – Jun 2025)  
+- **Thesis Evaluation Insight Mining Platform (TEIMP)** (Jun 2023 – Jun 2025)\
 NLP and ML platform to analyze thesis review comments, extracting patterns to support academic evaluation.
 
-- **ReviewBot** (Mar 2023 – Jun 2023) 
+- **ReviewBot** (Mar 2023 – Jun 2023)\
 Automated system for generating responses to Apple App Store reviews using OpenAI GPT.
 
-- **Contributions to HuggingFace/Transformers** (Jun 2023)
+- **Contributions to HuggingFace/Transformers** (Jun 2023)\
 Open-source contributions to a state-of-the-art NLP and machine learning framework supporting PyTorch, TensorFlow, and JAX.  
 
 ## Industrial & Entrepreneurial Projects
-- **Intelligent Vehicle Weighing and Accounting System** – Project Manager & Developer (2022)
+- **Intelligent Vehicle Weighing and Accounting System** – Project Manager & Developer (2022)\
 Automated weighing and billing for garbage transportation vehicles (Hunan Vary Technology).
-- **Bosch Logistics Control Tower, Changsha** – Developer (2021)
+- **Bosch Logistics Control Tower, Changsha** – Developer (2021)\
 Built data dashboards for logistics operations.
-- **WEMOVE (IoT Tents, Hangzhou Lvjia Technology)** – CTO (Jan 2016 – Dec 2017)
+- **WEMOVE (IoT Tents, Hangzhou Lvjia Technology)** – CTO (Jan 2016 – Dec 2017)\
 Led software/hardware integration for IoT-enabled tents; part of Hangzhou High-Tech “5050 Plan.”
-- **BallQ (Football Live Score Platform)** – CTO, Raised RMB 16M in funding (May 2014 – Dec 2015)
+- **BallQ (Football Live Score Platform)** – CTO, Raised RMB 16M in funding (May 2014 – Dec 2015)\
 Developed live score & prediction platform; raised RMB 16M in funding.
-- **TickTick (Task Management App)** – CTO (Mar 2012 – May 2013)
+- **TickTick (Task Management App)** – CTO (Mar 2012 – May 2013)\
 Designed and launched a task management app, later expanded into a global productivity tool.
 
 ## Technical Skills  
