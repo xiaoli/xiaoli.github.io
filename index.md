@@ -43,7 +43,7 @@ Automated weighing and billing for garbage transportation vehicles (Hunan Vary T
 Built data dashboards for logistics operations.
 - **WEMOVE (IoT Tents, Hangzhou Lvjia Technology)** – CTO (Jan 2016 – Dec 2017)\
 Led software/hardware integration for IoT-enabled tents; part of Hangzhou High-Tech “5050 Plan.”
-- **BallQ (Football Live Score Platform)** – CTO, Raised RMB 16M in funding (May 2014 – Dec 2015)\
+- **BallQ (Football Live Score Platform)** – CTO (May 2014 – Dec 2015)\
 Developed live score & prediction platform; raised RMB 16M in funding.
 - **TickTick (Task Management App)** – CTO (Mar 2012 – May 2013)\
 Designed and launched a task management app, later expanded into a global productivity tool.
