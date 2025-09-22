@@ -28,7 +28,7 @@ Email: xiaoli.wang [AT] csu.edu.cn
 
 ## Selected Research Projects
 - **Target Ligand Database (TarLiDB)** (May 2025 – Oct 2025)\
-Developing a ligand-centric molecular database integrating cheminformatics (RDKit) with AI/ML methods to support virtual screening, ADMET profiling, and drug discovery workflows.
+Developing a ligand-centric molecular database integrating cheminformatics (RDKit, ADMETlab 3.0) with AI/ML methods to support virtual screening, ADMET profiling, and drug discovery workflows.
 
 - **Thesis Evaluation Insight Mining Platform (TEIMP)** (Jun 2023 – Jun 2025)\
 NLP and ML platform to analyze thesis review comments, extracting patterns to support academic evaluation.
