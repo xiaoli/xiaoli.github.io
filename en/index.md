@@ -1,6 +1,6 @@
 # Xiaoli Wang (王晓莉)
 
-<img align="right" height="160" src="photos/xiaoli.jpg">
+<img align="right" height="160" src="../photos/xiaoli.jpg">
 
 Ph.D. Candidate\
 Central South University, Xiangya School of Pharmacy\
