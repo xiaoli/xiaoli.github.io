@@ -42,7 +42,7 @@ Open-source contributions to a state-of-the-art NLP and machine learning framewo
 ## Industrial & Entrepreneurial Projects
 - **Intelligent Vehicle Weighing and Accounting System** – Project Manager & Developer (2022)\
 Automated weighing and billing for garbage transportation vehicles (Hunan Vary Technology).
-- **Bosch Logistics Control Tower, Changsha** – Developer (2021)\
+- **Bosch Logistics Control Tower, Changsha** – Project Manager & Developer (2021)\
 Built data dashboards for logistics operations.
 - **WEMOVE (IoT Tents, Hangzhou Lvjia Technology)** – CTO (Jan 2016 – Dec 2017)\
 Led software/hardware integration for IoT-enabled tents; part of Hangzhou High-Tech “5050 Plan.”
@@ -52,7 +52,7 @@ Developed live score & prediction platform; raised RMB 16M in funding.
 Designed and launched a task management app, later expanded into a global productivity tool.
 
 ## Technical Skills  
-- **Programming:** Python, Java, C++, C
+- **Programming:** Python, Java, C++, C, Swift
 - **Databases:** MySQL, PostgreSQL (design, optimization, querying, data integrity)
 - **Machine Learning / NLP:** Transformers, HuggingFace, OpenAI GPT APIs
 - **Software Development:** 20+ years of experience in scalable systems and full-stack development
