@@ -18,8 +18,9 @@ Email: xiaoli.wang [AT] csu.edu.cn
   GPA: 3.95/4.0, Top 1%
 - **B.Sc. in Software Engineering**, Hunan University (Sep 1999 – Jun 2003)
 
-## Publications
-- 2017: *[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)* (Chinese Translation of Dan Sanderson’s book).
+## Publications and Translations
+- **Translation**
+  - 2017: *[Programming Google App Engine with Python](https://www.amazon.com/Programming-Google-Engine-Python-Infrastructure-ebook/dp/B010GNIV88)* (Chinese Translation of Dan Sanderson’s book).
 
 ## Awards
 - Nov 2024 - Second Prize, 5th Hunan Graduate AI Innovation Competition 
