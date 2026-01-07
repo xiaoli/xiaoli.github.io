@@ -17,7 +17,6 @@
 - **电子信息技术硕士**，湖南师范大学（2022年9月 – 2025年6月）
 - **软件工程学士**，湖南大学（1999年9月 – 2003年6月）
 
-
 ## 学术发表与译著
 **译著**
 *   **2017年**：*《基于Python的Google App Engine编程》*（Dan Sanderson 原著的中文译本）。
@@ -29,7 +28,10 @@
 - 2023年11月 – 第四届湖南省研究生人工智能创新大赛 一等奖
 
 ## 主要研究项目
-- **靶点配体数据库(TarLiDB)**（2025年5月 – 2025年10月）\
+- **[DrugMetab](https://drugmetab.scbdd.com/)**（2025年8月 – 2026年1月）\
+An integrated deep learning–based web platform for online prediction of drug metabolism.
+
+- **靶点配体数据库(TarLigDB)**（2025年5月 – 2025年10月）\
 开发一个以配体为中心的分子数据库，整合化学信息学（RDKit, ADMETlab 3.0）与人工智能/机器学习方法，以支持虚拟筛选、ADMET 分析及药物发现工作流程。
 
 - **论文评审意见智慧挖掘平台 (TEIMP)**（2023年6月 – 2025年6月）\
@@ -62,4 +64,4 @@ NLP and ML platform to analyze thesis review comments, extracting patterns to su
 ## 语言能力  
 - **普通话：** 母语  
 - **英语：** 流利（通过大学英语四级、六级考试，具备良好的口语沟通能力）
-- **粤语：** 听力 – 可以；口语 – 不会
+- **粤语：** 听力 – 可以；口语 – 不太会
